@@ -14,10 +14,10 @@ author: Wenlong Tian
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About me: "/aboutme.md"
-  Recording: 
-  Thinking:
-  Learning:
+  About me: "/_posts/2020-02-26-flake-it-till-you-make-it.md"
+  Recording: "/recording.md"
+  Thinking: "/thinking.md"
+  Learning: "learning.md"
 
 # --- Logo --- #
 
