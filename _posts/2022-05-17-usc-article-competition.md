@@ -4,7 +4,7 @@ title: 党史力行，言传身教，青春无悔，砥砺前行
 subtitle: by twl
 gh-repo: tianwenlong001/tianwenlong001.github.io
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [thinking]
 comments: true
 ---
 
