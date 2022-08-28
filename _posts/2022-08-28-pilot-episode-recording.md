@@ -16,13 +16,13 @@ Sheldon: So if a photon is directed through a plane with two slits in it and eit
 
 Leonard: Agreed, what’s your point?
 
-Sheldon: There’s no point, I just think it’s a good idea for a tee-shirt.
+Sheldon: There’s no point, I just think it’s a good idea for a T-shirt.
 
 Leonard: Excuse me?
 
 Receptionist: Hang on.
 
-Leonard: One across is Aegean, eight down is Nabakov, twenty-six across is MCM, fourteen down is… move your finger… phylum, which makes fourteen across Port-au-Prince. See, Papa Doc’s capital idea, that’s Port-au-Prince. Haiti.
+Leonard: One across is Aegean, eight down is Nabakov, twenty-six across is MCM, fourteen down is… move your finger… phylum, which makes fourteen across Port-au-Prince. See, Papa Doc’s capital idea, that’s Port-au-Prince. in Haiti.
 
 Receptionist: Can I help you?
 
@@ -44,7 +44,7 @@ Sheldon: Leonard, I don’t think I can do this.
 
 Leonard: What, are you kidding? You’re a semi-pro.
 
-Sheldon: No. We are committing genetic fraud. There’s no guarantee that our sperm is going to generate high IQ offspring, think about that. I have a sister with the same basic DNA mix who hostesses at Fuddruckers.
+Sheldon: No. We are committing genetic fraud. There’s no guarantee that our sperm is going to generate high IQ offspring, think about that. I have a sister with the same basic DNA mix who hostesses at food trucks.
 
 Leonard: Sheldon, this was your idea. A little extra money to get fractional T1 bandwidth in the apartment.
 
@@ -72,7 +72,7 @@ Receptionist: Bye.
 
 Sheldon: Bye-bye
 
-Leonard: See you.
+Leonard: Nice to meet you.
 
 Scene: The stairs of the apartment building.
 
