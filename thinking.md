@@ -2,7 +2,7 @@
 layout: page
 title: Thinking
 subtitle: by twl
-gh-repo: daattali/beautiful-jekyll
+gh-repo: tianwenlong001/tianwenlong001.github.io
 gh-badge: [star, fork, follow]
 tags: [thinking]
 comments: true
