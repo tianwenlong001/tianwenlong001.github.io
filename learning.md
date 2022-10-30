@@ -8,30 +8,22 @@ tags: [learning]
 comments: true
 ---
 
-
 ### Computer Networks
-
-
 
 
 ### Discrete mathematics
 
 
-
-
 ### Cryptograph
-
-
 
 
 ### Unified Modeling Language
 
 
-
-
 ### Deep Learning
 
 
+### BlockChain
 
 
 ### Applications
