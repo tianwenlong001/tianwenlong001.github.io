@@ -35,3 +35,6 @@ P2P [drasyl](https://docs.drasyl.org)
 
 [Managing storage in a Java application with IPFS](https://greg.jeanmart.me/2019/08/14/managing-storage-in-a-java-application-with-ipfs/)
 
+
+[p2p with netty implementation](https://github.com/metanet/p2p)
+
