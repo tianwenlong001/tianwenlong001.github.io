@@ -12,7 +12,7 @@ comments: true
    2. [Cryptography](/_posts/cryptography.md)
    3. [Deep Learning](/_posts/deep_learning.md)
    4. [BlockChain](/_posts/blockchain.md)
-   5. [Applications](/_posts/applications.md)
+   5. [Applications](/_posts/2024-08-06-applications.md)
 
 
 
