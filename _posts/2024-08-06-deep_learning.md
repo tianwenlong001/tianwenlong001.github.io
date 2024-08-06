@@ -15,9 +15,8 @@ comments: true
 
 
 ##### Federated Learning
-
+Python
 https://github.com/Asabeneh/30-Days-Of-Python
-
 https://www.codegavin.cn/tags/学习日记/page/2/
 
 [随机梯度下降SGD算法理解](https://blog.csdn.net/Oscar6280868/article/details/90641638)
